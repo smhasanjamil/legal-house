@@ -5,7 +5,7 @@
     padding: 0;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
@@ -32,7 +32,10 @@ p {
 }
 
 /* Nav Styles */
-
+/* .navbar-buttons{
+    display: flex;
+    justify-content: space-between;
+} */
 
 /* Banner Styles */
 .banner-section {
@@ -48,7 +51,8 @@ p {
 }
 
 .banner-all-items {
-    height: 100vh;
+    /* height: 100vh; */
+    height: 550px;
 }
 
 /* .banner-section h1{
@@ -61,7 +65,7 @@ p {
 
 
 /* Practice area style */
-.practice-area-section .card{
+.practice-area-section .card {
     margin-right: 0px;
 }
 
@@ -95,14 +99,14 @@ p {
 }
 
 /* Contact section style */
-.contact-section img{
+.contact-section img {
     height: 40px;
     width: 40px;
     margin: 0 auto;
 }
 
 /* Footer Styles */
-footer .footer-logo img{
+footer .footer-logo img {
     height: 46px;
     width: 169px;
 }
