@@ -10,6 +10,11 @@ h1 {
     font-weight: 800;
 }
 
+h5 {
+    font-family: 'EB Garamond', serif;
+    font-weight: 600;
+}
+
 p {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
@@ -52,6 +57,10 @@ p {
 
 
 /* Practice area style */
+.practice-area-section .card{
+    margin-right: 0px;
+}
+
 .practice-area-section h1 {
     font-weight: 800;
     font-size: 40px;
@@ -78,5 +87,12 @@ p {
 .practice-item-arrow {
     width: 40px;
     height: 41px;
+    margin: 0 auto;
+}
+
+/* Contact section style */
+.contact-section img{
+    height: 40px;
+    width: 40px;
     margin: 0 auto;
 }
