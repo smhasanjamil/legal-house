@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+a{
+    text-decoration: none;
+}
+
 h1 {
     font-family: 'EB Garamond', serif;
     font-weight: 800;
@@ -95,4 +99,10 @@ p {
     height: 40px;
     width: 40px;
     margin: 0 auto;
+}
+
+/* Footer Styles */
+footer .footer-logo img{
+    height: 46px;
+    width: 169px;
 }
